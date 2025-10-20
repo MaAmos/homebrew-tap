@@ -1,7 +1,7 @@
 class Fm < Formula
   desc "文件查询 CLI"
   homepage "https://github.com/MaAmos/fm"
-  url "https://github.com/MaAmos/fm/archive/refs/tags/v0.1.0.tar.gz"
+  url "https://github.com/MaAmos/fm/archive/refs/tags/v1.0.1.tar.gz"
   sha256 "804b67082ea03ebe637b2a7f202bb8e8a73a6206c595273aafb8b3b75933ef84"
   license "MIT" # 按你的项目实际 license
 
@@ -17,3 +17,4 @@ class Fm < Formula
   end
 
 end
+
